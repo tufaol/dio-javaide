@@ -1,7 +1,5 @@
 package aulaide;
 
-import java.util.Scanner;
-
 import aulaide.model.Pessoa;
 
 public class Desenvolvedor {
